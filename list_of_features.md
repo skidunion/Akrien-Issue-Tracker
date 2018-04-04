@@ -10,3 +10,6 @@
    - Speed - Slowest, Slow, Normal, Fast, Fastest
    - Pitchlocked
    - Expand
+6. **AntiCactus**
+7. **AAC SlimeJump**
+8. **InvMove**
