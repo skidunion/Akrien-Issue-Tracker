@@ -16,7 +16,7 @@ Bug/feature request/bypass request
 ＞
 
 ## Additional information
-# Erase everything below if this is a feature/bypass request!
+### Erase everything below if this is a feature/bypass request!
 
 **AntiLeak platform** CL/AAL
 
