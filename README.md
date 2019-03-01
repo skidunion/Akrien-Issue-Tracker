@@ -11,4 +11,4 @@ You shouldn't actually do this as you want. Here is some kind-of example of a an
 **If you don't follow the issue template, we have full rights to add the "invalid" tag to your post.**
 
 Some additional information:
-* Modpack Discord: http://go.ksenomorf.tk/0gfHO
+* Modpack Discord: https://go.skidunion.ru/AtcMV
